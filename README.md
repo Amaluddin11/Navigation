@@ -21,12 +21,6 @@ The action space consists of four discrete actions:
 
 This project is considered solved when the agent achieves an average score of at least 13 over 100 consecutive episodes. The score for each episode is the sum of rewards obtained during the episode.
 
-- Item 1
-  - Subitem 1
-  - Subitem 2
-- Item 2
-
-
 # Getting Started
 
 1. Select the environment that matches your operating system:
