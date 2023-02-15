@@ -41,4 +41,13 @@ This project is considered solved when the agent achieves an average score of at
 
 2. Then, unzip the file from this repository in the working folder.
 
-3. Execute `navigation.ipynb`
+# Instructions
+
+Execute `navigation.ipynb`
+
+It will first start the environment, and examine the state and action space.
+
+Then, you can train the Agent.
+
+Finally, you can test the trained Agent.
+
